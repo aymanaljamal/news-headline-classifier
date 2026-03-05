@@ -185,6 +185,6 @@ config.py
 
 # Author
 
-Tareq Ladadweh  
+Ayman Jamal 
 Computer Science Student  
 Birzeit University
